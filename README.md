@@ -10,9 +10,6 @@
 | **Hackster.io** | [A Networked Porta Potty and More Absurdity at DEF CON's Scavenger Hunt](https://www.hackster.io/news/a-networked-porta-potty-and-more-absurdity-at-def-con-s-scavenger-hunt-475ee8c567ca) |
 | **HackerPhotos** | [DEF CON Photo Archive — P8101655](https://www.hackerphotos.com/picture.php?/61246/category/43) |
 
-> *"Some members like Steven use the resources for personal projects, like outfitting this decommissioned 'robot hostess' with wireless hacking equipment, for wardriving of course. He debuted it at the Scav Hunt booth this year."*
-> — Alex Lynd, Hackster.io
-
 ---
 
 ## Table of Contents
