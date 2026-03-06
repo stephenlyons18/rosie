@@ -341,6 +341,7 @@ This architecture enables:
 ---
 
 ## 9. Aesthetic & Demonstration Layer
+[![Rosie at CSUF Cybersecurity Conference](rosie-termux.jpg)](https://www.hackerphotos.com/picture.php?/61246/category/43)
 
 Rosie is designed to be visually striking at conferences.
 
