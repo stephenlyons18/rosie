@@ -421,7 +421,7 @@ Rosie has been used to teach concepts including:
 
 | Upgrade                      | Description                                                     |
 | ---------------------------- | --------------------------------------------------------------- |
-| **Autonomous SLAM**          | Implement QuestNav + ROS 2 for self-navigating wardriving       |
+| **Autonomous SLAM**          | Implement [QuestNav](https://questnav.gg/) + ROS 2 for self-navigating wardriving       |
 | **Inline fuse protection**   | Critical safety upgrade for 55Ah SLA system                     |
 | **12V→5V buck converter**    | Cleaner regulated power for ESP32 and accessories               |
 | **DC step-down for Android** | Eliminate reliance on internal battery for upper system         |
