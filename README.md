@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/e21e9d52-4b93-4ee3-905d-d398eb65fceb
 
 ### NUCC Affiliation
 
-Rosie was built using resources from the **[National Upcycled Computing Collective (NUCC)](https://www.nuccinc.org/)**, a hacker non-profit based in Southern California. NUCC charters decommissioned laptops and networking equipment to local schools, running cybersecurity programs for students learning ethical hacking. The organization currently maintains 5 storage units of donated hardware for student and member projects — Rosie being one of its flagship builds.
+Rosie was built using resources from the **[National Upcycled Computing Collective (NUCC)](https://www.nuccinc.org/)**, a hacker non-profit based in Southern California. NUCC charters decommissioned laptops and networking equipment to local schools, running cybersecurity programs for students learning ethical hacking. The organization currently maintains 5 storage units of donated hardware for student and member projects.
 
 Rosie debuted publicly at the **DEF CON 33 Scavenger Hunt** alongside other NUCC projects including the viral *Trauma Dump: Hacker Confessional* porta potty and the *SODA Machine* (Shell-on-Demand-Appliance), which dispenses Linux VPS credentials by distro flavor.
 
