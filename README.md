@@ -4,10 +4,9 @@
 > *Transforming an abandoned commercial service robot into an offensive security demonstration unit.*
 
 
-<video controls width="600">
-    <source src="rosie-scav-hunt.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/92ae705d-fa12-4ae7-bf31-88060ddfb13c
+
 
 ### 📰 Press & Media Coverage
 
