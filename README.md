@@ -4,11 +4,10 @@
 > *Transforming an abandoned commercial service robot into an offensive security demonstration unit.*
 
 
+https://github.com/user-attachments/assets/e21e9d52-4b93-4ee3-905d-d398eb65fceb
 
-https://github.com/user-attachments/assets/92ae705d-fa12-4ae7-bf31-88060ddfb13c
 
-
-### 📰 Press & Media Coverage
+###  Press & Media Coverage
 
 | Publication      | Article                                                                                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -24,7 +23,7 @@ https://github.com/user-attachments/assets/92ae705d-fa12-4ae7-bf31-88060ddfb13c
 
 - [Rosie the Wardriver](#rosie-the-wardriver)
     - [A Mobile Wardriving \& Cybersecurity Research Platform](#a-mobile-wardriving--cybersecurity-research-platform)
-    - [📰 Press \& Media Coverage](#-press--media-coverage)
+    - [ Press \& Media Coverage](#-press--media-coverage)
   - [Table of Contents](#table-of-contents)
   - [1. Project Overview](#1-project-overview)
     - [Conference Appearances](#conference-appearances)
@@ -453,6 +452,6 @@ Rosie has been used to teach concepts including:
 
 ---
 
-*Built by Stephen Lyons. Displayed at DEF CON 33 Scavenger Hunt and CSUF Cybersecurity Conference.*  
+*Built by Stephen Lyons. Displayed at DEF CON 33 Scavenger Hunt and CSUF Cybersecurity Conference - OSSCON 2025.*  
 *Featured in [Hackster.io](https://www.hackster.io/news/a-networked-porta-potty-and-more-absurdity-at-def-con-s-scavenger-hunt-475ee8c567ca) by Alex Lynd. Photography archived at [HackerPhotos](https://www.hackerphotos.com/picture.php?/61246/category/43).*  
 *A project of the [National Upcycled Computing Collective](https://www.nuccinc.org/).*
